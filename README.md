@@ -5,7 +5,7 @@
 **AI Engineering student &nbsp;·&nbsp; Builder &nbsp;·&nbsp; Filipino**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arenga-mico)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/micoxares)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/devianticarus)
 
 </div>
 
