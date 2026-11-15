@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="296" viewBox="0 0 780 296" role="img" aria-label="Toolbox: Python, Rust, TypeScript, Bash, React, FastAPI, Tauri, Docker, Ollama, Linux">
+<title>Toolbox</title>
+<defs><radialGradient id="g0" cx="0.5" cy="0.45" r="0.6"><stop offset="0" stop-color="#4b8bbe" stop-opacity="0.26"/><stop offset="1" stop-color="#4b8bbe" stop-opacity="0"/></radialGradient><radialGradient id="g1" cx="0.5" cy="0.45" r="0.6"><stop offset="0" stop-color="#fb923c" stop-opacity="0.26"/><stop offset="1" stop-color="#fb923c" stop-opacity="0"/></radialGradient><radialGradient id="g2" cx="0.5" cy="0.45" r="0.6"><stop offset="0" stop-color="#3b82f6" stop-opacity="0.26"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient><radialGradient id="g3" cx="0.5" cy="0.45" r="0.6"><stop offset="0" stop-color="#6fcf3f" stop-opacity="0.26"/><stop offset="1" stop-color="#6fcf3f" stop-opacity="0"/></radialGradient><radialGradient id="g4" cx="0.5" cy="0.45" r="0.6"><stop offset="0" stop-color="#61dafb" stop-opacity="0.26"/><stop offset="1" stop-color="#61dafb" stop-opacity="0"/></radialGradient><radialGradient id="g5" cx="0.5" cy="0.45" r="0.6"><stop offset="0" stop-color="#14b8a6" stop-opacity="0.26"/><stop offset="1" stop-color="#14b8a6" stop-opacity="0"/></radialGradient><radialGradient id="g6" cx="0.5" cy="0.45" r="0.6"><stop offset="0" stop-color="#fbbf24" stop-opacity="0.26"/><stop offset="1" stop-color="#fbbf24" stop-opacity="0"/></radialGradient><radialGradient id="g7" cx="0.5" cy="0.45" r="0.6"><stop offset="0" stop-color="#38a3f5" stop-opacity="0.26"/><stop offset="1" stop-color="#38a3f5" stop-opacity="0"/></radialGradient><radialGradient id="g8" cx="0.5" cy="0.45" r="0.6"><stop offset="0" stop-color="#e8ecf7" stop-opacity="0.26"/><stop offset="1" stop-color="#e8ecf7" stop-opacity="0"/></radialGradient><radialGradient id="g9" cx="0.5" cy="0.45" r="0.6"><stop offset="0" stop-color="#facc15" stop-opacity="0.26"/><stop offset="1" stop-color="#facc15" stop-opacity="0"/></radialGradient></defs>
+<g>
+  <title>Python</title>
+  <rect x="8" y="8" width="140" height="132" rx="14" fill="#0a0f1e" stroke="#1e2a4a"/>
+  <rect x="8" y="8" width="140" height="132" rx="14" fill="url(#g0)"/>
+  <text x="22" y="32" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#5a6690">01</text>
+  <text x="134" y="32" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="1" fill="#5a6690">LANGUAGE</text>
+  <text x="78.0" y="84" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="44" font-weight="700" fill="#4b8bbe">Py</text>
+  <text x="78.0" y="116" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e8ecf7">Python</text>
+  <rect x="64.0" y="134" width="28" height="2" rx="1" fill="#4b8bbe" opacity="0.8"/>
+</g>
+<g>
+  <title>Rust</title>
+  <rect x="164" y="8" width="140" height="132" rx="14" fill="#0a0f1e" stroke="#1e2a4a"/>
+  <rect x="164" y="8" width="140" height="132" rx="14" fill="url(#g1)"/>
+  <text x="178" y="32" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#5a6690">02</text>
+  <text x="290" y="32" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="1" fill="#5a6690">LANGUAGE</text>
+  <text x="234.0" y="84" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="44" font-weight="700" fill="#fb923c">Rs</text>
+  <text x="234.0" y="116" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e8ecf7">Rust</text>
+  <rect x="220.0" y="134" width="28" height="2" rx="1" fill="#fb923c" opacity="0.8"/>
+</g>
+<g>
+  <title>TypeScript</title>
+  <rect x="320" y="8" width="140" height="132" rx="14" fill="#0a0f1e" stroke="#1e2a4a"/>
+  <rect x="320" y="8" width="140" height="132" rx="14" fill="url(#g2)"/>
+  <text x="334" y="32" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#5a6690">03</text>
+  <text x="446" y="32" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="1" fill="#5a6690">LANGUAGE</text>
+  <text x="390.0" y="84" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="44" font-weight="700" fill="#3b82f6">Ts</text>
+  <text x="390.0" y="116" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e8ecf7">TypeScript</text>
+  <rect x="376.0" y="134" width="28" height="2" rx="1" fill="#3b82f6" opacity="0.8"/>
+</g>
+<g>
+  <title>Bash</title>
+  <rect x="476" y="8" width="140" height="132" rx="14" fill="#0a0f1e" stroke="#1e2a4a"/>
+  <rect x="476" y="8" width="140" height="132" rx="14" fill="url(#g3)"/>
+  <text x="490" y="32" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#5a6690">04</text>
+  <text x="602" y="32" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="1" fill="#5a6690">LANGUAGE</text>
+  <text x="546.0" y="84" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="44" font-weight="700" fill="#6fcf3f">Sh</text>
+  <text x="546.0" y="116" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e8ecf7">Bash</text>
+  <rect x="532.0" y="134" width="28" height="2" rx="1" fill="#6fcf3f" opacity="0.8"/>
+</g>
+<g>
+  <title>React</title>
+  <rect x="632" y="8" width="140" height="132" rx="14" fill="#0a0f1e" stroke="#1e2a4a"/>
+  <rect x="632" y="8" width="140" height="132" rx="14" fill="url(#g4)"/>
+  <text x="646" y="32" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#5a6690">05</text>
+  <text x="758" y="32" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="1" fill="#5a6690">FRAMEWORK</text>
+  <text x="702.0" y="84" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="44" font-weight="700" fill="#61dafb">Re</text>
+  <text x="702.0" y="116" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e8ecf7">React</text>
+  <rect x="688.0" y="134" width="28" height="2" rx="1" fill="#61dafb" opacity="0.8"/>
+</g>
+<g>
+  <title>FastAPI</title>
+  <rect x="8" y="156" width="140" height="132" rx="14" fill="#0a0f1e" stroke="#1e2a4a"/>
+  <rect x="8" y="156" width="140" height="132" rx="14" fill="url(#g5)"/>
+  <text x="22" y="180" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#5a6690">06</text>
+  <text x="134" y="180" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="1" fill="#5a6690">FRAMEWORK</text>
+  <text x="78.0" y="232" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="44" font-weight="700" fill="#14b8a6">Fa</text>
+  <text x="78.0" y="264" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e8ecf7">FastAPI</text>
+  <rect x="64.0" y="282" width="28" height="2" rx="1" fill="#14b8a6" opacity="0.8"/>
+</g>
+<g>
+  <title>Tauri</title>
+  <rect x="164" y="156" width="140" height="132" rx="14" fill="#0a0f1e" stroke="#1e2a4a"/>
+  <rect x="164" y="156" width="140" height="132" rx="14" fill="url(#g6)"/>
+  <text x="178" y="180" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#5a6690">07</text>
+  <text x="290" y="180" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="1" fill="#5a6690">FRAMEWORK</text>
+  <text x="234.0" y="232" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="44" font-weight="700" fill="#fbbf24">Ta</text>
+  <text x="234.0" y="264" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e8ecf7">Tauri</text>
+  <rect x="220.0" y="282" width="28" height="2" rx="1" fill="#fbbf24" opacity="0.8"/>
+</g>
+<g>
+  <title>Docker</title>
+  <rect x="320" y="156" width="140" height="132" rx="14" fill="#0a0f1e" stroke="#1e2a4a"/>
+  <rect x="320" y="156" width="140" height="132" rx="14" fill="url(#g7)"/>
+  <text x="334" y="180" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#5a6690">08</text>
+  <text x="446" y="180" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="1" fill="#5a6690">TOOL</text>
+  <text x="390.0" y="232" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="44" font-weight="700" fill="#38a3f5">Dk</text>
+  <text x="390.0" y="264" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e8ecf7">Docker</text>
+  <rect x="376.0" y="282" width="28" height="2" rx="1" fill="#38a3f5" opacity="0.8"/>
+</g>
+<g>
+  <title>Ollama</title>
+  <rect x="476" y="156" width="140" height="132" rx="14" fill="#0a0f1e" stroke="#1e2a4a"/>
+  <rect x="476" y="156" width="140" height="132" rx="14" fill="url(#g8)"/>
+  <text x="490" y="180" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#5a6690">09</text>
+  <text x="602" y="180" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="1" fill="#5a6690">TOOL</text>
+  <text x="546.0" y="232" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="44" font-weight="700" fill="#e8ecf7">Ol</text>
+  <text x="546.0" y="264" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e8ecf7">Ollama</text>
+  <rect x="532.0" y="282" width="28" height="2" rx="1" fill="#e8ecf7" opacity="0.8"/>
+</g>
+<g>
+  <title>Linux</title>
+  <rect x="632" y="156" width="140" height="132" rx="14" fill="#0a0f1e" stroke="#1e2a4a"/>
+  <rect x="632" y="156" width="140" height="132" rx="14" fill="url(#g9)"/>
+  <text x="646" y="180" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#5a6690">10</text>
+  <text x="758" y="180" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="1" fill="#5a6690">TOOL</text>
+  <text x="702.0" y="232" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="44" font-weight="700" fill="#facc15">Lx</text>
+  <text x="702.0" y="264" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e8ecf7">Linux</text>
+  <rect x="688.0" y="282" width="28" height="2" rx="1" fill="#facc15" opacity="0.8"/>
+</g>
+</svg>

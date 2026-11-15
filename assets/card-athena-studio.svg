@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="212" viewBox="0 0 440 212" role="img" aria-label="Athena Studio: My freelance studio for AI tooling and local LLM integration. The Athena Studio website is under development.">
+<title>Athena Studio</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0f1e"/><stop offset="1" stop-color="#131c3a"/></linearGradient>
+  <radialGradient id="tint" cx="1" cy="0" r="1"><stop offset="0" stop-color="#60a5fa" stop-opacity="0.16"/><stop offset="1" stop-color="#60a5fa" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="440" height="212" rx="16" fill="url(#bg)"/>
+<rect width="440" height="212" rx="16" fill="url(#tint)"/>
+<rect x="0.5" y="0.5" width="439" height="211" rx="16" fill="none" stroke="#1e2a4a"/>
+<rect x="28" y="0" width="36" height="3" rx="1.5" fill="#60a5fa"/>
+<text x="28" y="34" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#60a5fa">04<tspan fill="#5a6690" dx="12">freelance</tspan></text>
+<text x="28" y="72" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#e8ecf7">Athena Studio</text>
+<text x="28" y="100" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#9aa6c6">My freelance studio for AI tooling and local</text><text x="28" y="121" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#9aa6c6">LLM integration. The Athena Studio website is</text><text x="28" y="142" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#9aa6c6">under development.</text>
+<rect x="28" y="166" width="89" height="26" rx="13" fill="#60a5fa" fill-opacity="0.1" stroke="#60a5fa" stroke-opacity="0.45"/><text x="72.5" y="183" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#60a5fa">AI tooling</text><rect x="125" y="166" width="89" height="26" rx="13" fill="#60a5fa" fill-opacity="0.1" stroke="#60a5fa" stroke-opacity="0.45"/><text x="169.5" y="183" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#60a5fa">Local LLMs</text><rect x="222" y="166" width="102" height="26" rx="13" fill="#60a5fa" fill-opacity="0.1" stroke="#60a5fa" stroke-opacity="0.45"/><text x="273.0" y="183" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#60a5fa">Desktop apps</text>
+<g aria-hidden="true"><line x1="368" y1="26" x2="412" y2="26" stroke="#60a5fa" stroke-width="2" stroke-linecap="round"/><line x1="368" y1="34" x2="412" y2="34" stroke="#34406a" stroke-width="2" stroke-linecap="round"/><line x1="368" y1="45" x2="412" y2="45" stroke="#34406a" stroke-width="2" stroke-linecap="round"/><line x1="368" y1="62" x2="412" y2="62" stroke="#34406a" stroke-width="2" stroke-linecap="round"/><circle cx="390" cy="26" r="4" fill="#60a5fa"/></g>
+</svg>

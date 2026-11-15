@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="212" viewBox="0 0 440 212" role="img" aria-label="DepTend: Turns dependency and issue data into ranked maintenance missions, scored by impact, effort, and ecosystem value. Dashboard and CLI.">
+<title>DepTend</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0f1e"/><stop offset="1" stop-color="#131c3a"/></linearGradient>
+  <radialGradient id="tint" cx="1" cy="0" r="1"><stop offset="0" stop-color="#a78bfa" stop-opacity="0.16"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="440" height="212" rx="16" fill="url(#bg)"/>
+<rect width="440" height="212" rx="16" fill="url(#tint)"/>
+<rect x="0.5" y="0.5" width="439" height="211" rx="16" fill="none" stroke="#1e2a4a"/>
+<rect x="28" y="0" width="36" height="3" rx="1.5" fill="#a78bfa"/>
+<text x="28" y="34" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#a78bfa">02<tspan fill="#5a6690" dx="12">github.com/SpIob/DepTend</tspan></text>
+<text x="28" y="72" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#e8ecf7">DepTend</text>
+<text x="28" y="100" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#9aa6c6">Turns dependency and issue data into ranked</text><text x="28" y="121" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#9aa6c6">maintenance missions, scored by impact, effort,</text><text x="28" y="142" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#9aa6c6">and ecosystem value. Dashboard and CLI.</text>
+<rect x="28" y="166" width="69" height="26" rx="13" fill="#a78bfa" fill-opacity="0.1" stroke="#a78bfa" stroke-opacity="0.45"/><text x="62.5" y="183" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#a78bfa">Next.js</text><rect x="105" y="166" width="89" height="26" rx="13" fill="#a78bfa" fill-opacity="0.1" stroke="#a78bfa" stroke-opacity="0.45"/><text x="149.5" y="183" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#a78bfa">PostgreSQL</text><rect x="202" y="166" width="42" height="26" rx="13" fill="#a78bfa" fill-opacity="0.1" stroke="#a78bfa" stroke-opacity="0.45"/><text x="223.0" y="183" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#a78bfa">CLI</text>
+<g aria-hidden="true"><line x1="368" y1="26" x2="412" y2="26" stroke="#34406a" stroke-width="2" stroke-linecap="round"/><line x1="368" y1="34" x2="412" y2="34" stroke="#34406a" stroke-width="2" stroke-linecap="round"/><line x1="368" y1="45" x2="412" y2="45" stroke="#a78bfa" stroke-width="2" stroke-linecap="round"/><line x1="368" y1="62" x2="412" y2="62" stroke="#34406a" stroke-width="2" stroke-linecap="round"/><circle cx="390" cy="45" r="4" fill="#a78bfa"/></g>
+</svg>
